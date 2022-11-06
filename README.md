@@ -7,4 +7,4 @@
 # Hari Prasath
 # Santhoshini
 # Sowndarya
-# This project is  about to know the information about the tourist places of the country
+# This project is to know the information about the tourist places of the country
