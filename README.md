@@ -7,5 +7,5 @@
 # Sudharsan
 # Hari Prasath
 # Santhoshini
-# Sowndarya
+# Sowndharya
 # This project is to know the information about the tourist places of the country
